@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body {
+    
+    
+    font-family: 'Noto Sans TC', sans-serif;
+    background:url(../img/reg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+        
+}
+.container{
+    
+    width: 1140px;
+   height: 0px, auto;
+    
+    
+}
+.register-form{
+    
+    background-color: whitesmoke;
+    padding: 30px;
+     margin-top: 100px;
+    margin-bottom:0px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.register-form h2{
+    background-color:#8e497f94;
+    color: #0e249c;
+    text-align: center;
+    font-size: 40px;
+    margin: 10px;
+    
+    
+}
+.register-form img{
+    margin: auto;
+    display: block;
+    width: 120px;
+    height: 120px;
+}
+.form-control{
+    background-color:#9a151505;
+    width:  30%;
+    height: 20px;
+    margin-bottom: 4px;
+}
+.button{
+    background-color: #866767;
+    margin:0px, auto;
+    display:top block;
+    padding: 2px 05px;
+    
+    
+}
+.button:hover{
+   
+    box-shadow:2px 4px 5px fuchsia; 
+}
+.Btn{
+    
+   background-color: #866767;
+    margin:0px, auto;
+    display:top block;
+    padding: 2px 05px; 
+}
+.Btn:hover{
+   
+    box-shadow:2px 4px 5px fuchsia;
+    
+}
+
+
+
+.Btn1{
+    
+   background-color: #866767;
+    margin:0px, auto;
+    display:top block;
+    padding: 2px 05px; 
+}
+.Btn1:hover{
+   
+    box-shadow:2px 4px 5px fuchsia;
+        
+}
